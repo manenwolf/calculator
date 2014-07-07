@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>resources/square-root-symbol-jpg.jpg</file>
+    </qresource>
+</RCC>
